@@ -1,7 +1,10 @@
-h1 {color: rgb(27, 180, 96);}
-h4 {font-size: 20px;
-color: rgb(250, 6, 6);}
-li{color: rgba(252, 4, 4, 0.979);}
-h2{color: firebrick;}
-table{color: rgb(41, 27, 236)
-    ;}
+h1 {color: rgb(248, 10, 10);font-family: sans-serif;}
+h4 {font-size: 20px;color: rgb(234, 250, 8);font-family: sans-serif;}
+li{color: rgb(234, 250, 8);font-family: sans-serif;}
+h2{color: rgb(234, 250, 8);font-family: sans-serif;}
+table{color: rgb(234, 250, 8);font-family: sans-serif;}
+image{widows: 200px;}
+body {background-image: url(/img/műhely.jpg);
+background-repeat: no-repeat; background-size: 2000px;
+background-position: center; background-attachment: ;}
+a{color: aliceblue;}
