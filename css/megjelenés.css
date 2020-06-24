@@ -1,22 +1,27 @@
-h1 {color: rgb(248, 10, 10);font-family: 'Buenard', 'Times New Roman', serif;text-align: center;}
-h4 {font-size: 20px;color: rgb(234, 250, 8);font-family: sans-serif;}
-li{color: rgb(234, 250, 8);font-family: sans-serif;}
-h2{color: rgb(234, 250, 8);font-family: sans-serif;text-align: center;}
-table{color: rgb(234, 250, 8);font-family: sans-serif; font-weight: 600; text-align: left;}
-image{position: absolute; widows: 200px;}
+h1 {color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align: center;}
+h4 {font-size: 20px;color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif;}
+h2{font-size: 30px;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align: left;}
+h3{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif; font-weight: 600; text-align: center;font-size: 40px;}
+table{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif; font-weight: 600; text-align: left;}
 body {background-image: url(/img/műhely.jpg);
-background-repeat: no-repeat; background-size: 1500px;
-background-position: center; background-attachment: ;}
+    background-repeat: no-repeat; background-size: 1500px;
+    background-position: static;}
+li{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif;}
 a{color: rgb(248, 10, 10); font-weight: 600;}
-h2{font-size: 30px;color: rgb(129, 119, 119);font-family: sans-serif;text-align: left;}
-h3{color: rgb(234, 250, 8);font-family: Georgia, 'Times New Roman', Times, serif; font-weight: 600; text-align: center;font-size: 40px;}
-#Áraink {text-align: left;color: rgb(248, 10, 10);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,sans-serif;}
-#ido{text-align: left;color: rgb(129, 119, 119);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,sans-serif;}
-#foglal{text-align: left;color: rgb(248, 10, 10);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,sans-serif;}
-#nyit{text-align: left;color: rgb(248, 10, 10);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,sans-serif;}
-@import url('https://fonts.googleapis.com/css2?family=Corben&family=Ribeye&family=Sriracha&display=swap');
-.menü {background-color: rgb(184, 8, 8);}
+#Áraink {text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
+#ido{text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
+#foglal{text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
+#nyit{text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
+@font-face {
+    font-family: "Roboto"; 
+src: url(/fonts/Roboto-Regular.ttf;)
+font-weight: 500;}
+.menü {color: white rgb(184, 8, 8);position: fixed;}
 .kiem {font-weight: 800;}
-#süti{color: rgb(248, 10, 10);font-family: 'Buenard', 'Times New Roman', serif;text-align: center; font-size: 55px;}
-#min{color: rgb(235, 86, 86);font-family: 'Buenard', 'Times New Roman', serif;text-align: center; font-size: 55px;}
-.kep{width: 200px;margin-left: 600px;}
+#süti{color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align: center; font-size: 55px;}
+#min{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif;text-align: center; font-size: 40px;margin-bottom: 20px;}
+.kep{width: 200px;margin-left: 600px; widows: 200px;}
+#fő{color: rgb(234, 250, 8);margin-left: 20%; text-shadow:3px 3px 7px black;}
+#ár{color: rgb(234, 250, 8);margin-left: 20%; text-shadow:3px 3px 7px black;}
+#el{color: rgb(234, 250, 8);margin-left: 20%; text-shadow:3px 3px 7px black;}
+div{background-color: rgb(247, 3, 64); position: top;}
