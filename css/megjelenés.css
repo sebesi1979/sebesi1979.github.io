@@ -3,7 +3,7 @@ h4 {font-size: 20px;color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-
 h2{font-size: 30px;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align: left;}
 h3{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif; font-weight: 600; text-align: center;font-size: 40px;}
 table{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif; font-weight: 600; text-align: left;}
-body {background-image: url(/img/műhely.jpg);
+html {background-image: url(/img/műhely.jpg);
     background-repeat: no-repeat; background-size: 1500px;
     background-position: static;}
 li{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif;}
@@ -25,3 +25,4 @@ font-weight: 500;}
 #ár{color: rgba(0, 0, 0, 0.767); text-shadow:3px 3px 7px black;}
 #el{color: rgba(0, 0, 0, 0.767);text-shadow:3px 3px 7px black;}
 div{position: top; display: inline-block; width: 400px; margin-left: 550px;}
+
