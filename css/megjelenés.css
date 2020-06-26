@@ -4,23 +4,21 @@ h2{font-size: 30px;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-s
 h3{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif; font-weight: 600; text-align: center;font-size: 40px;}
 table{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif; font-weight: 600; text-align: left;}
 html {background-image: url(/img/műhely.jpg);
-    background-repeat: no-repeat; background-size: 1500px;
-    background-position: static;}
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: static;
+    background-attachment: fixed;}
 li{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif;}
 a{color: rgb(248, 10, 10); font-weight: 600;}
 #Áraink {text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
 #ido{text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
 #foglal{text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
 #nyit{text-align: left;color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif,}
-@font-face {
-    font-family: "Roboto"; 
-src: url(/fonts/Roboto-Regular.ttf;)
-font-weight: 500;}
+@font-face {font-family: "Roboto"; src: url(/fonts/Roboto-Regular.ttf);font-weight: 500;}
 .menü {color: white rgb(184, 8, 8);position: fixed;}
 .kiem {font-weight: 800;}
 #süti{color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align: center; font-size: 55px;}
 #min{color: rgb(234, 250, 8);font-family: Arial, Helvetica, sans-serif;text-align: center; font-size: 40px;margin-bottom: 20px;}
-.kep{width: 200px;margin-left: 600px; widows: 200px;}
 #fő{color: rgba(0, 0, 0, 0.767); text-shadow:3px 3px 7px black;}
 #ár{color: rgba(0, 0, 0, 0.767); text-shadow:3px 3px 7px black;}
 #el{color: rgba(0, 0, 0, 0.767);text-shadow:3px 3px 7px black;}

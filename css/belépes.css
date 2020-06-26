@@ -1,5 +1,5 @@
 html {background-image: url(/img/műhely.jpg);
-    background-repeat: no-repeat; background-size: 1500px;
+    background-repeat: no-repeat; background-size: cover;
     background-position: static;}
 h1 {color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align: center;}
 .forma{color: blanchedalmond;}
