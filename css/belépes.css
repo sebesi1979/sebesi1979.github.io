@@ -6,4 +6,4 @@ h1 {color: rgb(248, 10, 10);font-family: Arial, Helvetica, sans-serif;text-align
 .gomb{color: black}
 .forma {padding: 15px;  border: solid 2px rgb(245, 5, 5); box-shadow: 0 0 5px rgb(238, 255, 0); display: inline-block; }
 .forma input {display: block; margin-bottom: 10px; text-align: center;}
-.forma [type="email"]{border: 5px; color: rgb(55, 0, 255);}
+.forma-oszt[type="email"]{border: 5px; color: rgb(55, 0, 255);}
